@@ -1061,3 +1061,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_3: Perf: Add tests for script to align with standards. at 2023-01-02 11:45:59
 * Commit 2023_4: Feat: Clean up dependencies for better readability. at 2023-01-02 13:48:37
 * Commit 2023_5: CI: Update build config component for better readability. at 2023-01-04 12:21:06
+* Commit 2023_6: Build: Clean up API to resolve issue. at 2023-01-04 13:23:03
