@@ -1164,3 +1164,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_106: Chore: Configure CI for tests for better readability. at 2023-03-29 16:50:53
 * Commit 2023_107: Build: Refactor code in algorithm for better maintainability. at 2023-03-29 10:39:45
 * Commit 2023_108: Refactor: Improve styling of API to align with standards. at 2023-03-29 14:38:23
+* Commit 2023_109: Perf: Refactor code in tests to improve user experience. at 2023-03-30 16:51:24
