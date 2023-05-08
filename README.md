@@ -1216,3 +1216,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_158: Style: Clean up UI to enhance functionality. at 2023-05-05 13:51:00
 * Commit 2023_159: Feat: Add tests for utility to align with standards. at 2023-05-05 14:38:54
 * Commit 2023_160: Style: Fix bug in tests to align with standards. at 2023-05-08 11:57:23
+* Commit 2023_161: Refactor: Refactor code in script for better readability. at 2023-05-08 14:56:12
