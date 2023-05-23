@@ -1233,3 +1233,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_175: Chore: Update build config UI to support new requirements. at 2023-05-19 10:14:50
 * Commit 2023_176: Style: Refactor code in component to support new requirements. at 2023-05-22 13:15:13
 * Commit 2023_177: CI: Clean up script to resolve issue. at 2023-05-23 15:11:12
+* Commit 2023_178: Build: Configure CI for tests to ensure stability. at 2023-05-23 15:02:42
