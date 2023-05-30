@@ -1243,3 +1243,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_185: Refactor: Improve styling of tests to support new requirements. at 2023-05-30 15:08:44
 * Commit 2023_186: Fix: Improve styling of tests to align with standards. at 2023-05-30 16:56:17
 * Commit 2023_187: Style: Update documentation for API to resolve issue. at 2023-05-30 13:23:40
+* Commit 2023_188: Refactor: Update documentation for module to enhance functionality. at 2023-05-30 11:46:32
