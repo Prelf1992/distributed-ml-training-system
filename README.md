@@ -1422,3 +1422,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_364: Test: Update build config tests for better maintainability. at 2023-09-22 14:01:39
 * Commit 2023_365: Perf: Add tests for data model for better readability. at 2023-09-22 14:24:28
 * Commit 2023_366: Style: Update documentation for tests for better readability. at 2023-09-22 16:23:06
+* Commit 2023_367: Build: Refactor code in tests to improve user experience. at 2023-09-26 17:45:54
