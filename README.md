@@ -1506,3 +1506,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_448: Style: Fix bug in API to resolve issue. at 2023-11-30 15:31:21
 * Commit 2023_449: Feat: Optimize performance of tests for better maintainability. at 2023-11-30 13:49:19
 * Commit 2023_450: Build: Improve styling of README to improve user experience. at 2023-11-30 12:08:51
+* Commit 2023_451: Chore: Clean up script for better readability. at 2023-12-01 17:46:30
