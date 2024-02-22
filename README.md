@@ -630,3 +630,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_72: Chore: Add tests for utility for better readability. at 2024-02-21 14:42:38
 * Commit 2024_73: Chore: Improve styling of dependencies for better maintainability. at 2024-02-21 15:29:01
 * Commit 2024_74: Build: Update documentation for tests to resolve issue. at 2024-02-21 13:07:49
+* Commit 2024_75: Style: Refactor code in data model to resolve issue. at 2024-02-22 12:14:56
