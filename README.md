@@ -648,3 +648,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_90: Style: Configure CI for script for better readability. at 2024-03-04 16:18:09
 * Commit 2024_91: Fix: Update build config module for better readability. at 2024-03-06 12:00:21
 * Commit 2024_92: Build: Update build config module to improve user experience. at 2024-03-06 14:35:46
+* Commit 2024_93: Test: Add tests for script to improve user experience. at 2024-03-06 09:29:52
