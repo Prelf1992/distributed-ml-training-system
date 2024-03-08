@@ -651,3 +651,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_93: Test: Add tests for script to improve user experience. at 2024-03-06 09:29:52
 * Commit 2024_94: CI: Update documentation for script for better readability. at 2024-03-06 12:18:12
 * Commit 2024_95: Style: Clean up tests to support new requirements. at 2024-03-06 10:43:30
+* Commit 2024_96: Feat: Update build config workflow to support new requirements. at 2024-03-08 15:27:16
