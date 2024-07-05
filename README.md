@@ -792,3 +792,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_234: Refactor: Improve styling of UI to ensure stability. at 2024-07-02 11:21:23
 * Commit 2024_235: Test: Fix bug in component for better readability. at 2024-07-03 15:47:28
 * Commit 2024_236: Build: Configure CI for component for faster execution. at 2024-07-03 11:37:55
+* Commit 2024_237: Chore: Refactor code in script for faster execution. at 2024-07-05 14:26:17
