@@ -892,3 +892,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_334: Chore: Update build config module for faster execution. at 2024-09-06 10:10:25
 * Commit 2024_335: Feat: Add tests for README for better readability. at 2024-09-09 14:37:24
 * Commit 2024_336: Feat: Clean up tests for faster execution. at 2024-09-10 12:20:22
+* Commit 2024_337: CI: Update documentation for script to support new requirements. at 2024-09-10 09:30:45
