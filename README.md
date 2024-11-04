@@ -59,3 +59,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 1: Fix: Improve styling of API to improve user experience. at 2024-11-01 09:27:27
 * Commit 2: Perf: Update documentation for tests to align with standards. at 2024-11-01 17:04:43
 * Commit 3: Style: Clean up dependencies for better readability. at 2024-11-04 14:22:28
+* Commit 4: Fix: Fix bug in script to improve user experience. at 2024-11-04 14:41:52
