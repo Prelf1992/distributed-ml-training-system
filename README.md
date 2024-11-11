@@ -65,3 +65,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 7: Docs: Refactor code in script to support new requirements. at 2024-11-08 14:10:11
 * Commit 8: Style: Add new feature component to resolve issue. at 2024-11-11 16:30:52
 * Commit 9: Test: Update build config tests for better readability. at 2024-11-11 12:52:00
+* Commit 10: Refactor: Refactor code in workflow for better maintainability. at 2024-11-11 16:47:55
