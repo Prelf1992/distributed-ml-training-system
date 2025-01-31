@@ -141,3 +141,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 83: Test: Add tests for database for faster execution. at 2025-01-27 10:36:08
 * Commit 84: Test: Clean up database to enhance functionality. at 2025-01-31 12:11:54
 * Commit 85: Fix: Improve styling of dependencies to resolve issue. at 2025-01-31 12:28:51
+* Commit 86: Chore: Update documentation for dependencies to improve user experience. at 2025-01-31 14:15:53
