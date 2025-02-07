@@ -144,3 +144,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 86: Chore: Update documentation for dependencies to improve user experience. at 2025-01-31 14:15:53
 * Commit 87: Fix: Update build config tests for faster execution. at 2025-02-04 15:04:32
 * Commit 88: Test: Update documentation for API to improve user experience. at 2025-02-04 15:31:07
+* Commit 89: Docs: Configure CI for tests for better readability. at 2025-02-07 17:27:16
