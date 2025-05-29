@@ -259,3 +259,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 201: Style: Improve styling of API for better maintainability. at 2025-05-26 09:29:09
 * Commit 202: Fix: Refactor code in script to enhance functionality. at 2025-05-26 15:15:30
 * Commit 203: Test: Configure CI for workflow to align with standards. at 2025-05-28 17:44:50
+* Commit 204: Refactor: Fix bug in data model for better readability. at 2025-05-29 16:07:26
