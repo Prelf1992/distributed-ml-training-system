@@ -346,3 +346,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 288: Chore: Add tests for algorithm to resolve issue. at 2025-08-21 14:49:42
 * Commit 289: Feat: Fix bug in module for faster execution. at 2025-08-21 12:50:06
 * Commit 290: Fix: Fix bug in API to align with standards. at 2025-08-22 12:14:32
+* Commit 291: Build: Configure CI for tests to improve user experience. at 2025-08-22 15:33:41
