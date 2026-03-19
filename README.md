@@ -1,6 +1,11 @@
 
 # Distributed ML Training System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/Prelf1992/distributed-ml-training-system?style=social)](https://github.com/Prelf1992/distributed-ml-training-system)
+
+
 A proof-of-concept for a distributed machine learning training system, demonstrating data parallelism and model parallelism across multiple nodes.
 
 ## Features
