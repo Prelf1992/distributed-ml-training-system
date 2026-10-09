@@ -1952,3 +1952,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_394: Docs: Refactor code in README to enhance functionality. at 2026-10-08 12:18:24
 * Commit 2026_395: Fix: Clean up script to ensure stability. at 2026-10-08 12:07:31
 * Commit 2026_396: Build: Add new feature workflow to align with standards. at 2026-10-08 17:37:00
+* Commit 2026_397: Feat: Clean up README for better readability. at 2026-10-09 13:46:31
